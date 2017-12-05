@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW3</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">OK</string>
+    <!-- Put your own APP ID here -->
+    <!-- Professor's APP ID -->
+    <string name="open_weather_maps_app_id">f9a0da7858696d1453d0faa23006c2d9</string>
+
+</resources>
